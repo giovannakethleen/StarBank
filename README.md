@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 - Projeto criado para atividade da FIAP (Faculdade de Informática e Administração Paulista ).
-- [Acessar o site]()
+- [Acessar o site](https://starbank-fiap.netlify.app/)
 
 <p> Feito por Giovanna Kethleen ♥ </p>
 
